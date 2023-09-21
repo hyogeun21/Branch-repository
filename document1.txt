@@ -39,5 +39,8 @@ print(quicksort(0, len(example)-1, example))
 
 void main(void)
 {
-	printf("hello world")
+	int num1 = 1;
+	printf("hello world\n");
+	printf("%d\n", num1);
+	
 }
